@@ -34,3 +34,5 @@
 -  Training dataset => model => output vs actual-data = loss (make adjustment or training to get output closer to the actual data)
 -  Validation set => model => output vs actual-data = loss (Validation set used as reality check during or after training to ensure the model can handle unseen data)
 
+#### ML sample dataset link - https://archive.ics.uci.edu
+#### Training model exercise colab link - https://colab.research.google.com/drive/1xjPZDKHUXGWfaa9Rb5sOBMdaBiMPxVtq#scrollTo=G1GwzdsGQ8px 
