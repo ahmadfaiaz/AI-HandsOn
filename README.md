@@ -34,5 +34,12 @@
 -  Training dataset => model => output vs actual-data = loss (make adjustment or training to get output closer to the actual data)
 -  Validation set => model => output vs actual-data = loss (Validation set used as reality check during or after training to ensure the model can handle unseen data)
 
-#### ML sample dataset link - https://archive.ics.uci.edu
-#### Training model exercise colab link - https://colab.research.google.com/drive/1xjPZDKHUXGWfaa9Rb5sOBMdaBiMPxVtq#scrollTo=G1GwzdsGQ8px 
+#### ML sample dataset 
+-  https://archive.ics.uci.edu
+#### Training model exercise colab
+- https://colab.research.google.com/drive/1xjPZDKHUXGWfaa9Rb5sOBMdaBiMPxVtq#scrollTo=G1GwzdsGQ8px 
+
+#### K-nearest neighbors (KNN)
+- In an example of having a dataset of kids' income, with (+) or without (-) a car, if we encounter (*) a new label, the KNN will take the label from its nearest data.
+- Euclidean distance - A straight line distance of (*) from other labels (- or +) - d = ^/"""""" (x1-x2)^2 + (y1-y2)^2 """"""
+- K represents the number of nearest distances, e.g, 3 - we take the 3 nearest labels to predict whether the label should be (- or +)
