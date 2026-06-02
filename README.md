@@ -43,3 +43,27 @@
 - In an example of having a dataset of kids' income, with (+) or without (-) a car, if we encounter (*) a new label, the KNN will take the label from its nearest data.
 - Euclidean distance - A straight line distance of (*) from other labels (- or +) - d = ^/"""""" (x1-x2)^2 + (y1-y2)^2 """"""
 - K represents the number of nearest distances, e.g, 3 - we take the 3 nearest labels to predict whether the label should be (- or +)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reference
+  -  Promping Guide - [Link](https://www.promptingguide.ai)
+  -  Techno Sapien - [Link](https://technosapien.substack.com/)
+  -  Second Brain - [Link](https://technosapien.substack.com/p/how-to-build-a-second-brain)
+  -  Taking notes - [Link](https://obsidian.rocks/getting-started-with-zettelkasten-in-obsidian/)
