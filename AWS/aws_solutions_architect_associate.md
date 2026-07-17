@@ -227,6 +227,7 @@
                         - ssh -i ec2connect ec2-user@<public_key>
                 - EC2 Instance connect - short live SSH key control by IAM work - only for linux
                 - Session Manager - connect via a reverse connection - no port needed - controlled by IAM - give permission to audit tail of logins
+                        - ** sudo passwd root - to create new password **
                 - Fleet manager remote desktop - connect to windows machine using RDP - web browser
                 - EC2 serial console - direct access to troubleshoot hardware layer
         20:35:54 Connecting to EC2 Instance Follow Along
@@ -234,6 +235,7 @@
         20:57:12 EC2 Serial Console Follow Along
         21:07:27 EC2 Amazon Linux
         21:13:03 AMIs (Amazon Machine Image)
+                - System manager automation - update patches
         21:25:43 AMIs (Amazon Machine Image) Follow Along (encrypted, copying to another region)
         21:36:48 ASG (Auto Scaling Groups)
         21:39:08 Capacity Settings
